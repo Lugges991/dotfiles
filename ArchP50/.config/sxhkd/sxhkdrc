@@ -1,0 +1,43 @@
+# BASICS:
+alt + w
+    firefox
+alt + r
+    $TERMINAL -e htop
+
+alt + s
+    /bin/spotify
+
+alt + shift + t
+    /bin/telegram-desktop
+
+alt + shift + l
+    /usr/bin/betterlockscreen -l
+
+# TOP KEYS
+XF86MonBrightnessUp
+    sudo xbacklight -inc 5
+
+XF86MonBrightnessDown
+    sudo xbacklight -dec 5
+
+XF86AudioMute		    
+     lmc mute
+
+XF86AudioLowerVolume	
+     lmc down 5
+
+shift + XF86AudioLowerVolume	
+     lmc down 10
+
+control + XF86AudioLowerVolume	
+     lmc down 1
+
+XF86AudioRaiseVolume	
+     lmc up 5
+
+shift + XF86AudioRaiseVolume	
+     lmc up 10
+
+control + XF86AudioRaiseVolume	
+     lmc up 1
+
