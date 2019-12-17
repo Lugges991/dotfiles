@@ -1,0 +1,24 @@
+[options]
+font = DejaVu Sans Mono Nerd Font 13
+# font = NotoSansMono Regular 13
+#
+allow_bold = true
+
+browser = $BROWSER
+clickable_url = true
+
+dynamic_title = true
+
+search_wrap = true
+
+scroll_on_keystroke = true
+scroll_on_output = false
+
+urgent_on_bell = true
+
+scrollback_lines = -1
+
+cursor_blink = true
+
+[colors]
+background = rgba(63,63,63,0.95)
